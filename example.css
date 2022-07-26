@@ -1,0 +1,23 @@
+body {
+  background: url(./images/image-lion-background.png) fixed no-repeat center,
+    linear-gradient(155deg, rgba(34, 162, 195, 1) 0%, rgba(30, 20, 215, 1) 100%)
+      fixed;
+}
+.test__obj--red {
+  margin-top: 1000px;
+  background: url(./images/allPanflute.jpg) center no-repeat fixed;
+  height: 300px;
+  border-radius: 15px;
+  box-shadow: 0 0 10px #000;
+  /* max-width: 1200px; */
+}
+.type {
+}
+.type2 {
+}
+.type3 {
+}
+.type4 {
+}
+.type5 {
+}
